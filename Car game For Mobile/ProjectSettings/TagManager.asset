@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lap 1
+  - Lap 2
+  - Lap 3
+  - EnemyCar
+  - Lap 4
+  - Water
+  - Enemy Lap 1
+  - Enemy Lap 2
+  - Enemy Lap 3
+  - Enemy Lap 4
+  - CheckPoint
+  - CamTrigger
+  - CamTriggerSecond
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - OutSide Ground
+  - GroundCheck
+  - Lap 1
+  - 'Lap 2 '
+  - Lap 3
+  - EnemyCar
+  - Rocks
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
